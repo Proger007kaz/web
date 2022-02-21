@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins", sans-serif;
+	background-color: #161616;
+}
+
+h4{
+	position: absolute;
+	left: 10%;
+	bottom: 1rem;
+}
+
+.cl{
+	margin: 0 auto;
+	text-align: center;
+	line-height: 100vh;
+}
+
+a {
+	text-decoration: none;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
